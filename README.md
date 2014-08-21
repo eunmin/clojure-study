@@ -1,4 +1,7 @@
 # Study
+- Joony
+- Lester
+- Todd
 
 ## 프로그래밍 클로저
 
