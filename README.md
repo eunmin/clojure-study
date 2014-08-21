@@ -1,19 +1,17 @@
-# FOUNDATIONS
-## Clojure philosophy
-### The Clojure way
-### Simplicity
-### Freedom to focus
-### Empowerment
-### Clarity
-### Consistency
-##  Why a(nother) Lisp?
-### Beauty
-### But what’s with all the parentheses?
-### Functional programming
-### A workable definition of functional programming
-### The implications of functional programming
-## Why Clojure isn’t especially object-oriented
-### Defining terms
-### Imperative “baked in”
-### OOP gives you, Clojure provides
-## Summary
+# Study
+
+## 프로그래밍 클로저
+
+## Web Development with Clojure
+
+## The Joy of Clojure
+
+## 컴퓨터 프로그램의 구조와 해석 (SICP)
+
+## 가장 쉬운 하스켈 책
+
+## Ring
+
+## Compojure
+
+## Leiningen
